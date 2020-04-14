@@ -25,6 +25,9 @@ function Contact() {
         </div>
         <textarea class="md-textarea form-control" placeholder="What's Up?"></textarea>
       </div>
+
+      <button type="button" class="btn btn-secondary">Submit</button>
+
       <br/>
     </div>
   );
